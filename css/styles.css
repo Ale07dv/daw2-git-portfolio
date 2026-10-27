@@ -1,0 +1,25 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: lightgray;
+    text-align: center;
+}
+
+header {
+    background-color: darkblue;
+    color: white;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+p {
+    font-size: 18px;
+}
+
+h2 {
+    color: blue;
+    margin-top: 30px;
+}
